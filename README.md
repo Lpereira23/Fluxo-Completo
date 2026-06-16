@@ -1,39 +1,22 @@
-# Fluxo-Completo
-8a atividade avaliativa
+# Agenda Saúde Web
 
-Estrutura do repositório:
+Sistema para gerenciamento de atendimentos e exames.
 
-agenda-saude-web/
-│
-├── backend/
-│   ├── src/
-│   │   ├── controller/
-│   │   ├── service/
-│   │   ├── repository/
-│   │   ├── model/
-│   │   └── dto/
-│   │
-│   ├── Dockerfile
-│   └── pom.xml
-│
-├── frontend/
-│   ├── src/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   ├── components/
-│   │   └── routes/
-│   │
-│   ├── Dockerfile
-│   └── package.json
-│
-├── docker-compose.yml
-├── README.md
-├── .github/
-│   └── workflows/                    
-│       └── ci-cd.yml
-│
-└── docs/
-    ├── DER.png
-    ├── arquitetura.png
-    └── apresentacao.html
+## Tecnologias
 
+- Java 17
+- Spring Boot 3.2
+- PostgreSQL
+- React 18
+- Docker
+- GitHub Actions
+
+## Executar
+
+docker compose up -d
+
+Frontend:
+http://localhost:3000
+
+Backend:
+http://localhost:8080
