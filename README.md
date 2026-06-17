@@ -158,8 +158,6 @@ docker -v
 
 ---
 
-# Como Executar (Desenvolvimento)
-
 ## Clonar o repositório
 
 ```bash
