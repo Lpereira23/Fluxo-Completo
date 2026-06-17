@@ -2,8 +2,6 @@
 
 Sistema web para gerenciamento de atendimentos e exames na área da saúde.
 
-Projeto desenvolvido como material educacional para demonstração do ciclo completo de desenvolvimento de software utilizando arquitetura cliente-servidor, containers, integração contínua e publicação em ambiente web.
-
 # Tecnologias Utilizadas
 
 | Camada            | Tecnologia                  |
